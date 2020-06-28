@@ -1,4 +1,5 @@
-# gogame_animation
+# GG_GAMES
+#only for personal use
 
 A new Flutter project.
 
